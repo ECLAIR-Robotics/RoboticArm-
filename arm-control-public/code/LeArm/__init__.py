@@ -1,4 +1,4 @@
-from .my_controller import Controller
+from .controller import Controller
 
 __version__ = '0.0.1'
 
